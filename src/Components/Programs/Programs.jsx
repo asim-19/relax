@@ -16,7 +16,7 @@ const Program = () => {
           <img src={program_icon_1} alt="" />
           <p>Happiness Program</p>
         </div>
-      </div>jgd
+      </div>
       <div className='program'>
         <img src={program_2} alt="" />
         <div className="caption">
