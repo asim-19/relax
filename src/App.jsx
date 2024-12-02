@@ -11,7 +11,7 @@ import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
 import VideoPlayer from './Components/VideoPlayer/VideoPlayer'
 
-pray
+
 const App = () => { 
 
   const [playState, setPlayState] = useState(false);
