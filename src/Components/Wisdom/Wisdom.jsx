@@ -7,6 +7,7 @@ import gallery_4 from '../../assets/gallery-4.jpg'
 
 import white_arrow from '../../assets/white-arrow.png'
 //JGD
+//BEST
 const Wisom = () => {
   return (
     <div className='wisdom'> 
