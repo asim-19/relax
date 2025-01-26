@@ -7,7 +7,7 @@ import location_icon from '../../assets/location-icon.png'
 import white_arrow from '../../assets/white-arrow.png'
 
 const Contact = () => {
-
+//JaiGURUDEV//
     const [result, setResult] = React.useState("");
 
   const onSubmit = async (event) => {
