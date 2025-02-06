@@ -6,7 +6,7 @@ import gallery_3 from '../../assets/gallery-3.png'
 import gallery_4 from '../../assets/gallery-4.jpg'
 
 import white_arrow from '../../assets/white-arrow.png'
-//jgd
+Done
 //BEST
 const Wisom = () => {
   return (
